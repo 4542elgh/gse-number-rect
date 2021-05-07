@@ -129,6 +129,6 @@ gse-number-rectangle-min-width."
 
 ;;---------------------------------------------------------------------------
 
-(provide 'gse-number-rect)
+(provide 'insert-number-rect)
 
 
